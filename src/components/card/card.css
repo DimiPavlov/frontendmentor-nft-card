@@ -1,0 +1,106 @@
+.card-container {
+  width: 300px;
+  height: 100%;
+  padding: 25px;
+  background: hsl(216, 50%, 16%);
+  border-radius: 10px;
+  margin-top: 50px;
+  margin-bottom: 300px;
+}
+
+.header-image {
+  width: 300px;
+}
+
+.header-image:hover {
+  display: block;
+  background-color: hsl(178, 100%, 50%) !important;
+  cursor: pointer;
+}
+
+.icon:hover {
+  display: flex;
+  align-items: center;
+}
+
+.overlay {
+  position: relative;
+  display: none;
+}
+
+.icon {
+  position: absolute;
+  bottom: 100px;
+  left: 120px;
+}
+
+.icons-container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.image-container:hover .overlay {
+  display: block;
+}
+
+h3 {
+  color: hsl(0, 0%, 100%);
+}
+
+p,
+span {
+  font-size: 18px;
+  color: hsl(215, 51%, 70%);
+  margin: 16px 0;
+}
+
+.equilibrium-text:hover,
+.footer-name:hover {
+  cursor: pointer;
+  color: hsl(178, 100%, 50%);
+}
+
+.icon-ethereum-container,
+.icon-clock-container {
+  display: flex;
+  align-items: center;
+}
+
+.icon-ethereum-container span {
+  color: hsl(178, 100%, 50%);
+}
+
+.icons-container img {
+  margin-right: 10px;
+}
+
+.footer-container {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.footer-container span {
+  color: hsl(0, 0%, 100%);
+  margin-left: 5px;
+}
+
+.footer-container div {
+  border: 1px solid white;
+  color: hsl(0, 0%, 100%);
+  border-radius: 50%;
+  margin-right: 15px;
+}
+
+.footer-avatar {
+  width: 30px;
+  height: 30px;
+
+  border-radius: hsl(0, 0%, 100%);
+}
+
+.footer-text {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
