@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2b0e10d6.css",
+    "main.js": "/static/js/main.90e1d15f.js",
+    "static/media/image-equilibrium.jpg": "/static/media/image-equilibrium.88bdbc91a544a2a4d04a.jpg",
+    "index.html": "/index.html",
+    "static/media/icon-view.svg": "/static/media/icon-view.fedac5512cc6657af397a76d5e03ea37.svg",
+    "static/media/icon-clock.svg": "/static/media/icon-clock.991a65225dab4fadc84345ecb35faa1b.svg",
+    "static/media/icon-ethereum.svg": "/static/media/icon-ethereum.5221f33297e5dc863451e2da9a758c12.svg",
+    "main.2b0e10d6.css.map": "/static/css/main.2b0e10d6.css.map",
+    "main.90e1d15f.js.map": "/static/js/main.90e1d15f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2b0e10d6.css",
+    "static/js/main.90e1d15f.js"
+  ]
+}
